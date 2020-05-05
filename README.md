@@ -19,5 +19,6 @@ Requires Python 3.
 
 # Credits
 
-- [home-assistant-libs](https://github.com/home-assistant-libs) for the  python library for casting
+- [home-assistant-libs](https://github.com/home-assistant-libs) for the python library for casting
 - Google for the YouTube API.
+- [Saurabh Kumar](https://github.com/theskumar) for his python-dotenv library
